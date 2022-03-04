@@ -8,7 +8,7 @@
   
 - Gosto de Jogos, Casimito e Senhor dos Aneis ou seja um nerdola. <br>
   
-- [Stacks](https://gist.github.com/MatheusHachiman/7713bd0bf03ed365690146026b51bebc.js "Stacks") <br>
+- [Stacks](https://gist.github.com/MatheusHachiman/7713bd0bf03ed365690146026b51bebc "Stacks") <br>
  
 - Setup (Incompleto) <br>
   
