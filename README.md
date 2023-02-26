@@ -6,10 +6,6 @@
 
 
 <div style = "inline-block" align = "left">
-  
-- Estudante de Automação Industrial no IFMG. <br>
-  
-- Java e WebDev. <br>
  
 ## Stacks
 
